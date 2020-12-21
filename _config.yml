@@ -13,7 +13,6 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-locale: de-DE
 title: Robert Kocht Institut
 email: rkochtinstitut@gmail.com
 description: Kulinarische Ergüsse über Gott und die Welt
@@ -21,6 +20,7 @@ description: Kulinarische Ergüsse über Gott und die Welt
 github_username: rkochtinstitut
 minimal_mistakes_skin: default
 search: true
+locale: de-DE
 
 # Build settings
 markdown: kramdown
