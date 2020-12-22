@@ -11,6 +11,7 @@ tags:
   - brühe
 header:
   image: /assets/images/bruehe/header.png
+published: false
 ---
 
 Es gibt den englischen Ausdruck “guilty pleasure” für eine Tätigkeit, derer man sich schämt, die einem aber dennoch Vergnügen bereitet. Für mich ist das Videos von Menschen anzuschauen, die sich bemühen eine flache Gestalt der Erde nachzuweisen. Intellektuell sind diese oft wenig herausfordernd. Aber manchmal aber regen sie doch zum Nachdenken an, denn man beginnt sich unweigerlich zu fragen: “Wie würde ich diese Beobachtung und die ihr zugrundeliegende Physik erklären?” So viel zum vergnüglichen Teil. Das Schamgefühl stellt sich ein, wenn man etwas weiter über die Gründe reflektiert, warum man sich dieses Video eigentlich angesehen hat. Denn natürlich hat man es wegen des Gefühls der intellektuellen Überlegenheit getan. Eine Überlegenheit, die gegenüber einem Flacherdler leicht, im Alltag oft viel schwerer zu rechtfertigen ist.
