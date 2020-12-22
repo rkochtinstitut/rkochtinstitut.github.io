@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Robert Müller"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Wissenschaftler, Segler, Wintermensch."
+  bio    : "Wissenschaftler, Segler, Walbeobachter"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
