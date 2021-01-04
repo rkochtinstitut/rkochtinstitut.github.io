@@ -1,6 +1,6 @@
 ---
 title: "Eine Brühe für Gunnar Kaiser"
-date: 2020-12-29T15:00:00
+date: 2021-01-04T15:00:00
 categories:
   - blog
 tags:
@@ -11,7 +11,6 @@ tags:
   - brühe
 header:
   image: /assets/images/bruehe/header.png
-published: false
 ---
 
 Es gibt den englischen Ausdruck “guilty pleasure” für eine Tätigkeit, derer man sich schämt, die einem aber dennoch Vergnügen bereitet. Für mich ist das Videos von Menschen anzuschauen, die sich bemühen eine flache Gestalt der Erde nachzuweisen. Intellektuell sind diese oft wenig herausfordernd. Aber manchmal aber regen sie doch zum Nachdenken an, denn man beginnt sich unweigerlich zu fragen: “Wie würde ich diese Beobachtung und die ihr zugrundeliegende Physik erklären?” So viel zum vergnüglichen Teil. Das Schamgefühl stellt sich ein, wenn man etwas weiter über die Gründe reflektiert, warum man sich dieses Video eigentlich angesehen hat. Denn natürlich hat man es wegen des Gefühls der intellektuellen Überlegenheit getan. Eine Überlegenheit, die gegenüber einem Flacherdler leicht, im Alltag oft viel schwerer zu rechtfertigen ist.
@@ -26,7 +25,7 @@ Beginnen wir also unsere Zutaten vorzubereiten. Das Tolle an einem Fond ist, das
 
 Es ist ein weit verbreitetes Missverständnis, dass man für eine Gemüsebrühe nur ein Suppengemüsepaket auskochen muss. Das wollen wir aber nicht. Chemisch unterscheiden sich die Geschmacksstoffe und verlangen alle nach einer unterschiedlichen Methode sie hervorzulocken. Als nächstes schnippeln wir die Pilze.
 
-![Ein großteil der Zutaten fertig auf dem Brett](/assets/images/bruehe/geschnitten.png)
+![Ein Großteil der Zutaten fertig auf dem Brett](/assets/images/bruehe/geschnitten.png)
 
 Sehen Sie, Herr Kaiser, es ist so mit den Missverständnissen. Man kann ihnen jahrelang aufsitzen ohne es zu merken und doch zu einem Ergebnis kommen, das einem plausibel erscheint. Es gibt ein paar Dinge, insbesondere über die Wissenschaft, die Sie leider missverstehen. Um diese aufzuklären brauche ich aber etwas mehr Ruhe. Verschieben wir das also auf die Zeit, in der die Brühe einreduziert. Der Lauch und der Sellerie wollen auch noch geschnitten werden.
 
